@@ -105,13 +105,13 @@ Deci 是 DeciFlow 内置的 AI 数据助手,具备完整的数据分析工具链
 
 ## 下载安装
 
-前往 [Releases 页面](https://github.com/Terry-Xxxu/DeciFlow-releases/releases) 下载安装包。
+前往 [Releases 页面](https://github.com/Terry-Xxxu/DeciFlow-releases/releases/latest) 下载安装包。
 
 | 平台 | 安装包 |
 |------|--------|
-| macOS Apple Silicon(M 系列) | `DeciFlow-1.0.0-arm64.dmg` |
+| macOS Apple Silicon(M 系列) | `DeciFlow-2.1.0-arm64.dmg` |
 
-其他平台(Windows / Linux / Intel macOS):规划中。
+其他平台(Windows / Linux / Intel macOS):规划中。旧版本可在 Releases 页面查看历史。
 
 ### macOS 首次启动说明
 
